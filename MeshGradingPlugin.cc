@@ -114,6 +114,9 @@ void MeshGradingPlugin::slotMeshGradingButtonClicked() {
   if (tool_->ear_right->isChecked()){
       ear_ = 2;
   }
+  if (tool_->ear_both->isChecked()){
+      ear_ = 3;
+  }
 
   if (tool_->POWalpha->isChecked()){
       gradingFunction_ = 1;
