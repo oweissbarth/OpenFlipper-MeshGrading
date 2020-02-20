@@ -151,6 +151,7 @@ private slots:
   // BaseInterface
   void initializePlugin();
   void pluginsInitialized(); // BaseInterface
+  void noguiSupported() {}
 
 public :
   MeshGradingPlugin();
