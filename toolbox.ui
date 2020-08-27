@@ -33,7 +33,7 @@
       <item>
        <widget class="QRadioButton" name="ear_left">
         <property name="toolTip">
-         <string>Note that the interautal axis has to be aligned with the y-axis!</string>
+         <string>Note that the interaural axis has to be aligned with the y-axis!</string>
         </property>
         <property name="text">
          <string>left</string>
@@ -46,7 +46,7 @@
       <item>
        <widget class="QRadioButton" name="ear_right">
         <property name="toolTip">
-         <string>Note that the interautal axis has to be aligned with the y-axis!</string>
+         <string>Note that the interaural axis has to be aligned with the y-axis!</string>
         </property>
         <property name="text">
          <string>right</string>
@@ -56,7 +56,7 @@
       <item>
        <widget class="QRadioButton" name="ear_both">
         <property name="toolTip">
-         <string>Note that the interautal axis has to be aligned with the y-axis!</string>
+         <string>Note that the interaural axis has to be aligned with the y-axis!</string>
         </property>
         <property name="text">
          <string>both</string>
